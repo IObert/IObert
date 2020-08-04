@@ -1,6 +1,8 @@
 ### Hello World
 
-I'm Marius, and I started my software-development career as a UI developer in sunny California at [SAP Labs](https://twitter.com/sap_bayarea). After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I decided to relocate to the beer-capital Munich, where I now work as a Developer Advocate. My focus areas are the SAP Cloud Platform and SAP UI technologies. I try to keep up to speed with cryptocurrencies and distributed ledger technologies in general in my spare time.
+I'm Marius, and I studied Computer Science in [Karlsruhe (Germany)](https://www.karlsruhe.dhbw.de/) and started my software-development-career as a UI developer in sunny California at [SAP Labs](https://twitter.com/sap_bayarea). During this time, I learned to love web technologies like JavaScript and Node.js.
+
+After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I relocated to Munich, where I now work as a Developer Advocate for the SAP Cloud Platform and SAP UI technologies. In this new role, I try to inspire my peer developers around the globe to build scalable cloud-native enterprise apps.
 
 Here's a list of my favorite web resources:
 
