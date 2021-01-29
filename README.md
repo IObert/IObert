@@ -2,11 +2,11 @@
 
 I'm Marius, and I studied Computer Science in [Karlsruhe (Germany)](https://www.karlsruhe.dhbw.de/) and started my software-development-career as a UI developer in sunny California at [SAP Labs](https://twitter.com/sap_bayarea). During this time, I learned to love web technologies like JavaScript and Node.js.
 
-After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I relocated to Munich, where I now work as a Developer Advocate for the SAP Cloud Platform and SAP UI technologies. In this new role, I try to inspire my peer developers around the globe to build scalable cloud-native enterprise apps.
+After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I relocated to Munich, where I now work as a Developer Advocate for SAP BTP and SAP UI technologies. In this new role, I try to inspire my peer developers around the globe to build scalable cloud-native enterprise apps.
 
 Here's a list of my favorite web resources:
 
-- 🏎 Get a free [SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html) trial account
+- 🏎 Get a [free account on SAP BTP Trial](https://developers.sap.com/tutorials/hcp-create-trial-account.html)
 - 📚 Learn about new SAP technology in the [Developer Center](https://developers.sap.com/)
 - 💬 Join the [SAP Community](https://community.sap.com/) to talk about tech
 - 🐦 Get in contact with me on [Twitter](https://twitter.com/IObert_)
@@ -17,7 +17,6 @@ If you want to know more about the awesome team I'm working with, please look at
 - [DJ Adams](https://github.com/qmacro/)
 - [Josh Bentley](https://github.com/jarjarbentley)
 - [Kevin Muessig](https://github.com/KevinMuessig)
-- [Max Steifeneder](https://github.com/maxstreifeneder)
 - [Rich Heilman](https://github.com/rich-heilman)
 - [Thomas Jung](https://github.com/jung-thomas)
 - [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
