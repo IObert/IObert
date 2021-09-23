@@ -17,6 +17,7 @@ If you want to know more about the awesome team I'm working with, please look at
 - [DJ Adams](https://github.com/qmacro/)
 - [Josh Bentley](https://github.com/jarjarbentley)
 - [Kevin Muessig](https://github.com/KevinMuessig)
+- [Mamikee Kanneh](https://github.com/Mamikee)
 - [Rich Heilman](https://github.com/rich-heilman)
 - [Thomas Jung](https://github.com/jung-thomas)
 - [Vitaliy Rudnytskiy](https://github.com/Sygyzmundovych)
