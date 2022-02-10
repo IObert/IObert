@@ -6,6 +6,7 @@ After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed
 
 Recommended web resources for getting started:
 - 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio?promo=iSDwWn) (no credit card required)
+- ⚓️ The latest videos, posts, and sample code [for developers building on Twilio](https://www.twilio.com/ahoy)
 - 👾 Learn about Twilio and coding while playing a video game with [TwilioQuest](https://www.twilio.com/quest)
 - 👩‍💻🧑‍💻 Learn in a group settings in one of our [webinars](https://www.twilio.com/go/developer-webinars)
 - 📚 Check out the [documentation](https://www.twilio.com/docs) of all Twilio products
