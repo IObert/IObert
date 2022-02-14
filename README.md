@@ -5,7 +5,7 @@ I'm Marius, and I studied Computer Science in [Karlsruhe (Germany)](https://www.
 After many *ugly* fights against [CSS](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq), I relocated to Munich, where I now work as a Developer Evangelist at Twilio. In this new role, I try to inspire my peer developers around the globe to enhance the UX of their apps with immersive communication channels.
 
 Recommended web resources for getting started:
-- 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio?promo=iSDwWn) (no credit card required)
+- 🏎 Get a [free Twilio account](https://www.twilio.com/referral/iSDwWn) (no credit card required)
 - ⚓️ The latest videos, posts, and sample code [for developers building on Twilio](https://www.twilio.com/ahoy)
 - 👾 Learn about Twilio and coding while playing a video game with [TwilioQuest](https://www.twilio.com/quest)
 - 👩‍💻🧑‍💻 Learn in a group settings in one of our [webinars](https://www.twilio.com/go/developer-webinars)
