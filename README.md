@@ -1,6 +1,6 @@
 ### Hello World 🦁
 
-I'm Marius, and I studied Computer Science in [Karlsruhe, Germany](https://www.karlsruhe.dhbw.de/) and started my software-development-career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript and Node.js.
+I'm Marius, and I studied Computer Science in [Karlsruhe, Germany](https://www.karlsruhe.dhbw.de/), and started my software-development-career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript and Node.js.
 
 After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq)  against CSS, I relocated to Munich, where I now work as a Developer Evangelist at Twilio. In this new role, I try to inspire my peer developers around the globe to enhance the UX of their apps with immersive communication channels.
 
