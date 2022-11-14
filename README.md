@@ -6,8 +6,8 @@ After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming
 
 Recommended web resources for getting started:
 - 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio) (no credit card required)
-- ⚓️ The latest videos, posts, and sample code [for developers building on Twilio](https://www.twilio.com/ahoy)
-- 👾 Learn about Twilio and coding while playing a video game with [TwilioQuest](https://www.twilio.com/quest)
+- 📽️ Twilio services pitched in [90 seconds or less]([https://www.twilio.com/ahoy](https://www.youtube.com/playlist?list=PLoy9dZCYzBCxecq19w9SfJggSjlI0gCqB))
+- 👾 Learn coding while playing a video game with [TwilioQuest](https://www.twilio.com/quest)
 - 👩‍💻🧑‍💻 Learn in a group settings in one of our [webinars](https://www.twilio.com/go/developer-webinars)
 - 📚 Check out the [documentation](https://www.twilio.com/docs) of all Twilio products
 - 😩 Something isn't working? Get support in the [Help Center](https://support.twilio.com/hc/en-us/categories/203263388-Programmable-Messaging)
