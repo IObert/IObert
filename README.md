@@ -10,7 +10,7 @@ Recommended web resources for getting started:
 - 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio) (no credit card required)
 - 📽️ Twilio services pitched in [90 seconds or less](https://www.youtube.com/playlist?list=PLoy9dZCYzBCxecq19w9SfJggSjlI0gCqB)
 - 👾 Learn to code while playing a video game with [TwilioQuest](https://www.twilio.com/quest)
-- 👩‍💻🧑‍💻 Learn in a group setting in one of our [webinars](https://www.twilio.com/go/developer-webinars)
+- 👩‍💻🧑‍💻 Learn in a group setting in one of our [webinars](https://www.twilio.com/events/category/webinars)
 - 📚 Check out the [documentation](https://www.twilio.com/docs) of all Twilio products
 - 😩 Something isn't working? Get support in the [Help Center](https://support.twilio.com/hc/en-us/categories/203263388-Programmable-Messaging)
 - 💬 Ask any question about the products [on StackOverflow](https://stackoverflow.com/questions/tagged/twilio) 
