@@ -4,7 +4,7 @@ Originally from the Black Forest in Germany, I started my software-development c
 
 After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq) against CSS, I relocated to Munich, working as a Developer Evangelist at Twilio. In this role, I try to inspire my peer developers around the globe to build cloud-native apps with excellent customer engagement.
 
-Besides his day job at Twilio, he's also interested in web 3.0 technologies.
+Besides my day job at Twilio, I'm also interested in web 3.0 technologies.
 
 Recommended web resources for getting started:
 - 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio) (no credit card required)
