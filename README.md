@@ -1,10 +1,10 @@
 ### Hello World 🦁
 
-I'm Marius, and I studied Computer Science in [Karlsruhe](https://www.karlsruhe.dhbw.de/) and started my software development career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript and Node.js.
+Originally from the Black Forest in Germany, I started my software-development career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript in general and the entire Node.js ecosystem. 
 
-After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq)  against CSS, I relocated to Munich, where I now work as a Developer Evangelist at Twilio. In this new role, I inspire my peer developers around the globe to build cloud-native apps with excellent customer engagement.
+After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq) against CSS, I relocated to Munich, working as a Developer Evangelist at Twilio. In this role, I try to inspire my peer developers around the globe to build cloud-native apps with excellent customer engagement.
 
-Besides my day job at Twilio, I try to keep current with web 3.0 technologies.
+Besides his day job at Twilio, he's also interested in web 3.0 technologies.
 
 Recommended web resources for getting started:
 - 🏎 Get a [free Twilio account](https://www.twilio.com/try-twilio) (no credit card required)
