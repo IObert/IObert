@@ -1,6 +1,6 @@
 ### Hello World 🦁
 
-Originally from the Black Forest in Germany, I started my software-development career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript in general and the entire Node.js ecosystem. 
+My passion is to explore the latest communication technologies and speak about them. Originally from the Black Forest in Germany, I started my software-development career as a UI developer in sunny California. During this time, I learned to love web technologies like JavaScript in general and the entire Node.js ecosystem. 
 
 After many [*ugly fights*](https://giphy.com/gifs/frustrated-annoyed-programming-yYSSBtDgbbRzq) against CSS, I relocated to Munich, working as a Developer Evangelist at Twilio. In this role, I try to inspire my peer developers around the globe to build cloud-native apps with excellent customer engagement.
 
